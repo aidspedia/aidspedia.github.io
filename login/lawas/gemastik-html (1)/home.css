@@ -1,0 +1,621 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-beranda {
+  width: 100%;
+  height: 1428px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.home-our-services {
+  top: 758px;
+  left: 88px;
+  width: 1334px;
+  height: 578px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-text {
+  top: 131px;
+  left: 303px;
+  color: rgba(97, 97, 97, 1);
+  width: 731px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text02 {
+  top: 447px;
+  color: rgba(97, 97, 97, 1);
+  width: 409px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text04 {
+  top: 447px;
+  left: 925px;
+  color: rgba(97, 97, 97, 1);
+  width: 409px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text06 {
+  top: 61px;
+  left: 414px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle277 {
+  top: 0px;
+  left: 551px;
+  width: 235px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px;
+}
+.home-text08 {
+  top: 11px;
+  left: 611px;
+  color: rgba(218, 58, 83, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-ellipse111 {
+  top: 302px;
+  left: 148px;
+  width: 91px;
+  height: 91px;
+  position: absolute;
+  border-color: rgba(248, 217, 222, 0.5);
+  border-style: solid;
+  border-width: 15px;
+}
+.home-ellipse113 {
+  top: 302px;
+  left: 1073px;
+  width: 91px;
+  height: 91px;
+  position: absolute;
+  border-color: rgba(248, 217, 222, 0.5);
+  border-style: solid;
+  border-width: 15px;
+}
+.home-newspaper-f-i-l-l0wght400g-r-a-d0opsz481 {
+  top: 328px;
+  left: 174px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.home-text10 {
+  top: 405px;
+  left: 162px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text12 {
+  top: 405px;
+  left: 1059px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text14 {
+  top: 520px;
+  left: 125px;
+  color: rgba(218, 58, 83, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text16 {
+  top: 520px;
+  left: 1056px;
+  color: rgba(218, 58, 83, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text18 {
+  top: 447px;
+  left: 464px;
+  color: rgba(97, 97, 97, 1);
+  width: 409px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-ellipse112 {
+  top: 302px;
+  left: 612px;
+  width: 91px;
+  height: 91px;
+  position: absolute;
+  border-color: rgba(248, 217, 222, 0.5);
+  border-style: solid;
+  border-width: 15px;
+}
+.home-text23 {
+  top: 405px;
+  left: 619px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text25 {
+  top: 520px;
+  left: 582px;
+  color: rgba(218, 58, 83, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-forum-f-i-l-l0wght400g-r-a-d0opsz481 {
+  top: 328px;
+  left: 638px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.home-healthandsafety-f-i-l-l0wght400g-r-a-d0opsz481 {
+  top: 325px;
+  left: 1096px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.home-arrowforward-f-i-l-l0wght400g-r-a-d0opsz481 {
+  top: 521px;
+  left: 233px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.home-arrowforward-f-i-l-l0wght400g-r-a-d0opsz482 {
+  top: 521px;
+  left: 700px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.home-arrowforward-f-i-l-l0wght400g-r-a-d0opsz483 {
+  top: 521px;
+  left: 1153px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.home-carousel1 {
+  top: 226px;
+  left: 89px;
+  width: 1334px;
+  height: 427px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-undrawmedicineb1ol21 {
+  top: 0px;
+  left: 732px;
+  width: 602px;
+  height: 427px;
+  position: absolute;
+}
+.home-text27 {
+  color: rgba(63, 61, 61, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text32 {
+  top: 160px;
+  left: 3px;
+  color: rgba(97, 97, 97, 1);
+  width: 636px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-tentang-bahaya-h-i-v {
+  top: 297px;
+  left: 305px;
+  width: 301px;
+  height: 65px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-bxplaycircle {
+  top: 0px;
+  left: 0px;
+  width: 65px;
+  height: 65px;
+  position: absolute;
+}
+.home-text34 {
+  top: 18px;
+  left: 65px;
+  color: rgba(97, 97, 97, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-mari-bergabung {
+  top: 299px;
+  left: 0px;
+  width: 256px;
+  height: 58px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(218, 58, 83, 1);
+}
+.home-text36 {
+  top: 14px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-chevronright-f-i-l-l0wght400g-r-a-d0opsz481 {
+  top: 5px;
+  left: 188px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.home-navbar {
+  top: 46px;
+  left: 89px;
+  width: 1338px;
+  height: 86px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-text38 {
+  top: 27px;
+  left: 656px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle275 {
+  top: 16px;
+  left: 1162px;
+  width: 176px;
+  height: 59px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 40px;
+}
+.home-text40 {
+  top: 27px;
+  left: 1210px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text42 {
+  top: 27px;
+  left: 469px;
+  color: rgba(218, 58, 83, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text44 {
+  top: 27px;
+  left: 821px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text46 {
+  top: 27px;
+  left: 979px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-logo {
+  top: 0px;
+  left: 0px;
+  width: 305px;
+  height: 86px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.home-text48 {
+  top: 7px;
+  left: 52px;
+  color: rgba(218, 58, 83, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text49 {
+  color: rgba(218, 58, 83, 1);
+}
+.home-image6 {
+  top: 0px;
+  left: 0px;
+  width: 49px;
+  height: 86px;
+  position: absolute;
+  border-color: transparent;
+}
