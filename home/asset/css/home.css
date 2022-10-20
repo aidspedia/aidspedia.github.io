@@ -17,6 +17,7 @@
 
   .zoom:hover{
     transform: scale(1.12);
+    cursor: pointer;
   }
 
   .home-text02 {

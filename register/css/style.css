@@ -436,17 +436,7 @@
     bottom: 4rem;
   }
 
-  .regist {
-    bottom: 4rem;
-    right: 6rem;
-    position: absolute;
-}
-
-.regist-icon {
-    transform: rotateZ(0deg);
-}
-
-/* SCROLLBAR START */
+  /* SCROLLBAR START */
 ::-webkit-scrollbar-track
 {
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.9);
